@@ -26,4 +26,5 @@ Contribution
 
 License
 MIT License © [Hkima]
+
 Note : You should re-run your project after adding your API key to ensure that the application correctly 
