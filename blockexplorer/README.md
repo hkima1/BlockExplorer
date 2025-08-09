@@ -12,15 +12,17 @@ Finally, run the application with:
   Technologies Used
 React (functional components, hooks)
 
-Alchemy SDK for blockchain data fetching
 
-Tailwind CSS for styling
+Technologies Used
++ Alchemy SDK for blockchain data fetching
 
-Ethereum cryptography libraries for wallet management
++ Tailwind CSS for styling
+
++ Ethereum cryptography libraries for wallet management
 
 Contribution
-Feel free to fork and submit pull requests!
-Issues and suggestions are welcome.
++ Feel free to fork and submit pull requests!
++ Issues and suggestions are welcome.
 
 License
 MIT License © [Hkima]
