@@ -4,8 +4,8 @@ This is a simple block explorer web page built with React and Tailwind CSS. It's
   + The NFTs box, which displays the last 10 exchanges or transfers of NFTs.
 To run this app, you should first install the necessary packages with:
   + npm install
-Next, create an API key from Alchemy. You can follow this tutorial to do so https://www.youtube.com/watch?v=BH-K_3B5dQA .Create a .env file in the root directory.
- Add this key to your .env file like this:
+Next, create an API key from Alchemy. You can follow this tutorial to do so https://www.youtube.com/watch?v=BH-K_3B5dQA .
+Create a .env file in the root directory and add your Alchemy API key:
   + REACT_APP_ALCHEMY_API_KEY="your-API-key"
 Finally, run the application with:
   + npm start
